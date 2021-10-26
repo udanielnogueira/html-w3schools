@@ -7,7 +7,7 @@
 
  - Formatting
 
- '''<b>''' - Bold text
+ ´´´´<b>´´´´ - Bold text
  <strong> - Important text
  <i> - Italic text
  <em> - Emphasized text
