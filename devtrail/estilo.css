@@ -19,11 +19,18 @@ header{
     margin-right:-8px;
 }
 
+/*class selector*/
 h1.logo{
     font-size: 150px;
 
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+/*id selector*/
+#badge{
+    /*Only adjusting height, it changes proportionally*/
+    height: 120px;
 }
 
 footer{
