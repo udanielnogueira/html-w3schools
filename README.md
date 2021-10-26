@@ -31,11 +31,11 @@
 
  ``<abbr>`` Defines an abbreviation or acronym
 
- Example: ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
+ ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
 
  ``<bdo>`` Defines the text direction
 
- Example: ``<bdo dir="rtl">This text will be written from right to left</bdo>``
+ ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
  - Colors
 
