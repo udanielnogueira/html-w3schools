@@ -3,6 +3,10 @@
 
 <head>
     <meta charset="UTF-8">
+
+    <!--Setting Viewport (Responsive)-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Dev Trail</title>
     <link rel="stylesheet" href="estilo.css"/>
     <script type="text/javascript" src="script.js"></script>
@@ -20,7 +24,7 @@
         <h1 class="logo">&ltDev Trail&gt</h1>
 
         <!--Style attribute-->
-        <h2 style="color: white">The trail to master Web Development</h2>
+        <h2 class="logo" style="color: white">The trail to master Web Development</h2>
 
         <!--Line Break-->
         <!--It's an empty tag-->
@@ -37,22 +41,24 @@
         <img
         src="assets/html5-badge.png" 
         alt="html 5 badge" 
-        width="" height="100"
+        width="auto" height="100"
         
         id="badge" 
         title ="HTML 5">
 
         <!--Using single and double quotes-->
         <!--Image as a link-->
-        <a href="#">
-            <img 
-            src="assets/css3-badge.png" 
-            alt="css 3 badge" 
-            width="" height="100"
-            
-            id="badge" 
-            title='"CSS 3"'>
-        </a>
+        <!--Remove any space inside <a> tag,it may show an undescore-->
+        <a href="#"><img src="assets/css3-badge.png" alt="css 3 badge"  width="auto" height="100" id="badge" title='"CSS 3"'></a>
+
+        <img
+        src="assets/javascript-badge.png" 
+        alt="javascript badge" 
+        width="auto" height="100"
+
+        id="badge" 
+        title ="Javascript">
+        
     </section>
 
     <!--Horizontal Rule-->

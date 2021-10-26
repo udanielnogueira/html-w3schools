@@ -2,6 +2,9 @@
 
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    /*Remove white margin around the page*/
+    margin:  0px;
 }
 
 header{
@@ -10,34 +13,37 @@ header{
     text-align: center;
     color: white;
 
-    /*Adjusting padding and margin*/
-    padding-top: 50px;
-    padding-bottom: 50px;
-
-    margin-top: -10px;
-    margin-left: -8px;
-    margin-right:-8px;
+    /*Adjusting padding*/
+    /*Using vw (Responsive)*/
+    padding-top: 4vw;
+    padding-bottom: 4vw;
 }
 
 /*Class selector*/
-h1.logo{
-    font-size: 130px;
 
-    margin-top: 0px;
-    margin-bottom: 0px;
+.logo{
+    margin: 0px;
+}
+h1.logo{
+    font-size: 14vw;
+}
+
+h2.logo{
+    font-size: 3vw;
 }
 
 .section1{
     text-align: center;
     
-    margin-top: 100px;
-    margin-bottom: 100px;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    
 }
 
 /*Id selector*/
 #badge{
     /*Only adjusting height, it changes proportionally*/
-    height: 120px;
+    height: 100px;
 
     padding: 20px;
     margin: 20px;
