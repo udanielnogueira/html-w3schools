@@ -42,9 +42,13 @@
  RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
 
  ``"background-color:rgba(255, 99, 71, 0.5);``
- 
+
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
+ ### Notes
+
+ - Visit nicepage.com to see design examples.
+ - Google "hex color picker" to quickly choose a color.
 
 
 
