@@ -16,7 +16,7 @@ header{
     /*Adjusting padding*/
     /*Using vw (Responsive)*/
     padding-top: 4vw;
-    padding-bottom: 4vw;
+    padding-bottom: 10vw;
 }
 
 /*Class selector*/
@@ -35,7 +35,7 @@ h2.logo{
     text-align: center;
     
     padding-top: 4vw;
-    padding-bottom: 4vw;
+    padding-bottom: 10vw;
     
 }
 
