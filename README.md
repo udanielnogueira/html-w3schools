@@ -45,7 +45,7 @@
 
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
- ### Notes
+ ## Notes
 
  - Visit nicepage.com to see design examples.
  - Google "hex color picker" to quickly choose a color.
