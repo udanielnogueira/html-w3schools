@@ -37,7 +37,7 @@
 
  ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
- ### Colors
+ ### Transparency 
 
  - RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
 
@@ -45,7 +45,7 @@
 
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
- ### Links
+ ### Button as a link
 
  - To use an HTML button as a link, you have to add some JavaScript code.
 
