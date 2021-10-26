@@ -5,27 +5,27 @@
 
  ## Content not implemented
 
- - Formatting
+ ### Formatting
 
- ``<b>`` Bold text
+ - ``<b>`` Bold text
 
- ``<strong>`` Important text
+ - ``<strong>`` Important text
 
- ``<i>`` Italic text
+ - ``<i>`` Italic text
 
- ``<em>`` Emphasized text
+ - ``<em>`` Emphasized text
 
- ``<mark>`` Marked text
+ - ``<mark>`` Marked text
 
- ``<small>`` Smaller text
+ - ``<small>`` Smaller text
 
- ``<del>`` Deleted text
+ - ``<del>`` Deleted text
 
- ``<ins>`` Inserted text
+ - ``<ins>`` Inserted text
 
- ``<sub>`` Subscript text
+ - ``<sub>`` Subscript text
 
- ``<sup>`` Superscript text
+ - ``<sup>`` Superscript text
 
  ### Quotation and Citation
 
@@ -37,17 +37,17 @@
 
  ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
- - Colors
+ ### Colors
 
- RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
+ - RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
 
  ``"background-color:rgba(255, 99, 71, 0.5);``
 
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
- - Links
+ ### Links
 
- To use an HTML button as a link, you have to add some JavaScript code.
+ - To use an HTML button as a link, you have to add some JavaScript code.
 
  ``<button onclick="document.location='default.asp'">HTML Tutorial</button>``
 
