@@ -29,13 +29,26 @@
 
  - Quotation and Citation
 
-``<abbr>`` Defines an abbreviation or acronym
+ ``<abbr>`` Defines an abbreviation or acronym
 
-Example: ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
+ Example: ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
 
-``<bdo>`` Defines the text direction
+ ``<bdo>`` Defines the text direction
 
-Example: ``<bdo dir="rtl">This text will be written from right to left</bdo>``
+ Example: ``<bdo dir="rtl">This text will be written from right to left</bdo>``
+
+ - Colors
+
+ RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
+
+ ``"background-color:rgba(255, 99, 71, 0.5);``
+ ``"background-color:hsla(9, 100%, 64%, 0.5);``
+
+
+
+
+
+
 
 
 

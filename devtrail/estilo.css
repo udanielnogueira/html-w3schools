@@ -1,7 +1,7 @@
 /* Using CSS is better than using the style attribute> */
 
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header{
@@ -29,15 +29,21 @@ h1.logo{
 
 .section1{
     text-align: center;
-
-    margin-top: 130px;
-    margin-bottom: 130px;
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Id selector*/
 #badge{
     /*Only adjusting height, it changes proportionally*/
     height: 120px;
+
+    padding: 20px;
+    margin: 20px;
+
+    /*Border color*/
+    border:1px solid gray;
 }
 
 footer{
