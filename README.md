@@ -27,13 +27,13 @@
 
  ``<sup>`` Superscript text
 
- - Quotation and Citation
+ ### Quotation and Citation
 
- ``<abbr>`` Defines an abbreviation or acronym
+ - ``<abbr>`` Defines an abbreviation or acronym
 
  ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
 
- ``<bdo>`` Defines the text direction
+ - ``<bdo>`` Defines the text direction
 
  ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
