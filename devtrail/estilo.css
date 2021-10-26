@@ -14,29 +14,47 @@ header{
     color: white;
 
     /*Adjusting padding*/
-    /*Using vw (Responsive)*/
-    padding-top: 4vw;
-    padding-bottom: 10vw;
+    /*Using rem (Responsive)*/
+    /*The rem is good to header*/
+    /*The rem has a padding that is fixed*/
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 /*Class selector*/
 .logo{
+    /*It's important to set margin 0 here when using rem*/
     margin: 0px;
 }
 h1.logo{
-    font-size: 14vw;
+    /*The rem is good to font-size*/
+    /*The font receives a fixed dimension*/
+    font-size: 7rem;
 }
 
 h2.logo{
-    font-size: 3vw;
+    font-size: 2rem;
 }
 
 .section1{
     text-align: center;
+    padding-bottom: 5vw;
     
-    padding-top: 4vw;
-    padding-bottom: 10vw;
-    
+}
+
+p.section1{
+    /*Using vw (Responsive)*/
+    /*The vw is good between the sections*/
+    /*The vw has a padding that is changeable*/
+    font-size: 2rem;
+    font-weight: 700;
+
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 /*Id selector*/
@@ -44,8 +62,10 @@ h2.logo{
     /*Only adjusting height, it changes proportionally*/
     height: 100px;
 
-    padding: 20px;
-    margin: 20px;
+    padding: 3vw;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
 
     /*Border color*/
     border:1px solid gray;
