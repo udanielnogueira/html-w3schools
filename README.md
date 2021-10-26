@@ -45,6 +45,12 @@
 
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
+ - Links
+
+ To use an HTML button as a link, you have to add some JavaScript code.
+
+ ``<button onclick="document.location='default.asp'">HTML Tutorial</button>``
+
  ## Notes
 
  - Visit nicepage.com to see design examples.
