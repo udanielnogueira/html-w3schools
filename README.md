@@ -51,6 +51,14 @@
 
  ``<button onclick="document.location='default.asp'">HTML Tutorial</button>``
 
+ ### Image Floating
+
+ - Use the CSS float property to let the image float to the right or to the left of a text.
+
+ ``<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">``
+ 
+ The image will float to the right of the text.</p>
+
  ## Notes
 
  - Visit nicepage.com to see design examples.
