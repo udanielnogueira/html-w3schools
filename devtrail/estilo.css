@@ -19,7 +19,7 @@ header{
     margin-right:-8px;
 }
 
-/*class selector*/
+/*Class selector*/
 h1.logo{
     font-size: 150px;
 
@@ -27,7 +27,14 @@ h1.logo{
     margin-bottom: 0px;
 }
 
-/*id selector*/
+.section1{
+    text-align: center;
+
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+/*Id selector*/
 #badge{
     /*Only adjusting height, it changes proportionally*/
     height: 120px;
