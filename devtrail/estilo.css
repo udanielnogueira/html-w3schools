@@ -1,0 +1,21 @@
+body{
+    background-color: #00aee3;
+}
+
+h1{
+    font-size: 500%;
+}
+
+h1, h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
