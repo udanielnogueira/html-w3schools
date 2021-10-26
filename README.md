@@ -7,28 +7,35 @@
 
  - Formatting
 
- ``<b>``        Bold text
+ ``<b>`` Bold text
 
- ``<strong>``   Important text
+ ``<strong>`` Important text
 
- ``<i>``        Italic text
+ ``<i>`` Italic text
 
- ``<em>``       Emphasized text
+ ``<em>`` Emphasized text
 
- ``<mark>``     Marked text
+ ``<mark>`` Marked text
 
- ``<small>``    Smaller text
+ ``<small>`` Smaller text
 
- ``<del>``      Deleted text
+ ``<del>`` Deleted text
 
- ``<ins>``      Inserted text
+ ``<ins>`` Inserted text
 
- ``<sub>``      Subscript text
+ ``<sub>`` Subscript text
 
- ``<sup>``      Superscript text
-
+ ``<sup>`` Superscript text
 
  - Citation
+
+``<abbr>`` Defines an abbreviation or acronym
+
+Example: ``<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>``
+
+``<bdo>`` Defines the text direction
+
+Example: ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
 
 
