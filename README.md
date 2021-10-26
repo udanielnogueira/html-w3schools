@@ -27,7 +27,7 @@
 
  ``<sup>`` Superscript text
 
- - Citation
+ - Quotation and Citation
 
 ``<abbr>`` Defines an abbreviation or acronym
 
