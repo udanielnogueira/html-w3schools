@@ -3,7 +3,7 @@
 
  The Dev Trail is just a website which implements all the content covered.
  
- Acesse: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/devtrail/index.html">Dev Trail</a>
+ Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/devtrail/index.html">Dev Trail</a>
 
  ## Content not implemented
 
