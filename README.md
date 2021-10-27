@@ -1,5 +1,5 @@
 # HTML5.W3Schools
- Mastering ### HTML 5 through W3 Schools. 
+ Mastering HTML 5 through W3 Schools. 
 
  The Dev Trail is just a website which implements all the topics covered.
  
@@ -73,9 +73,9 @@
 
  ### Links (Button as a link)
 
- - To use an ### HTML button as a link, you have to add some JavaScript code.
+ - To use an HTML button as a link, you have to add some JavaScript code.
 
- ``<button onclick="document.location='default.asp'">### HTML Tutorial</button>``
+ ``<button onclick="document.location='default.asp'">HTML Tutorial</button>``
 
  ### Images (Image floating)
 
