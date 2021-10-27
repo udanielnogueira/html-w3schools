@@ -116,8 +116,12 @@ footer{
 .video{
     text-align: center;
     background-color: black;
+    padding-bottom: 2rem;
 }
 
-h3.video{
-    padding: 10rem;
+p.video{
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 2rem;
+    color: white;
 }
