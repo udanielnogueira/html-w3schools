@@ -34,18 +34,16 @@ h1.logo{
     /*The rem is good to font-size*/
     /*The font receives a fixed dimension*/
     font-size: 7rem;
-    color: rgb(35, 252, 54);
 }
 
 h2.logo{
     font-size: 2rem;
-    color: rgb(35, 252, 54);
+    
 }
 
 .section1{
     text-align: center;
     padding-bottom: 5vw;
-    background-color: rgb(35, 252, 54);
 }
 
 p.section1{
