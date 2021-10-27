@@ -72,7 +72,6 @@ p.section1{
     border:1px solid gray;
 }
 
-
 /*Link Colors*/
 a:link{
     color: green;
@@ -86,6 +85,26 @@ a:visited{
 
 a:hover{
     color: rgb(89, 231, 120);
+}
+
+/*Link Button*/
+a.contato:link, a.contato:visited{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    border-radius: 5px;
+  
+    /*To generate a block on it*/
+    display: inline-block;
+    margin: 25px;
+}
+
+a.contato:hover, a.contato:active{
+    background-color: rgb(89, 231, 120);
 }
 
 footer{
