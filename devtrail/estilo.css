@@ -1,10 +1,12 @@
 /* Using CSS is better than using the style attribute> */
 
+*{
+    /*Remove white margin around the page*/
+    margin: 0;
+}
+
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-    /*Remove white margin around the page*/
-    margin:  0px;
 }
 
 header{
