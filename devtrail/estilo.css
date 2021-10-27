@@ -125,3 +125,8 @@ p.video{
     padding: 2rem;
     color: white;
 }
+
+iframe.video{
+    height: 33.8vw;
+    width: 60vw;
+}
