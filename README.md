@@ -1,11 +1,35 @@
 # HTML5.W3Schools
- Mastering HTML 5 through W3 Schools. 
+ Mastering ### HTML 5 through W3 Schools. 
 
- The Dev Trail is just a website which implements all the content covered.
+ The Dev Trail is just a website which implements all the topics covered.
  
  Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/devtrail/index.html">Dev Trail</a>
 
- ## Content not implemented
+ ## Topics implemented
+
+ ### Elements
+
+ ### Attributes
+
+ ### Headings
+
+ ### Paragraphs
+
+ ### Styles
+
+ ### Quotations (some)
+
+ ### Comments
+
+ ### Colors (some)
+
+ ### CSS 
+
+ ### Links (some)
+
+ ### Images (some)
+
+ ## Topics not implemented
 
  ### Formatting
 
@@ -29,7 +53,7 @@
 
  - ``<sup>`` Superscript text
 
- ### Quotation and Citation
+ ### Quotations (abbr and bdo)
 
  - ``<abbr>`` Defines an abbreviation or acronym
 
@@ -39,7 +63,7 @@
 
  ``<bdo dir="rtl">This text will be written from right to left</bdo>``
 
- ### Transparency 
+ ### Colors (Transparency)
 
  - RGBA and HSLA values can add an alpha channel to the color, here we have 50% transparency.
 
@@ -47,13 +71,13 @@
 
  ``"background-color:hsla(9, 100%, 64%, 0.5);``
 
- ### Button as a link
+ ### Links (Button as a link)
 
- - To use an HTML button as a link, you have to add some JavaScript code.
+ - To use an ### HTML button as a link, you have to add some JavaScript code.
 
- ``<button onclick="document.location='default.asp'">HTML Tutorial</button>``
+ ``<button onclick="document.location='default.asp'">### HTML Tutorial</button>``
 
- ### Image Floating
+ ### Images (Image floating)
 
  - Use the CSS float property to let the image float to the right or to the left of a text.
 
