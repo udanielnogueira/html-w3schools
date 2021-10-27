@@ -72,6 +72,8 @@ p.section1{
     border:1px solid gray;
 }
 
+
+/*Link Colors*/
 a:link{
     color: green;
     text-decoration: none;
