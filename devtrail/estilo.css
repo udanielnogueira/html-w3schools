@@ -31,10 +31,9 @@ header{
     margin: 0px;
 }
 h1.logo{
-    
-    /*Using vh (Responsive)*/
-    /*The vh is good to logo font-size*/
-    font-size: 7vh;
+    /*The rem is good to font-size*/
+    /*The font receives a fixed dimension*/
+    font-size: 7rem;
 }
 
 h2.logo{
@@ -47,9 +46,6 @@ h2.logo{
 }
 
 p.section1{
-    
-    /*The rem is good to font-size*/
-    /*The font receives a fixed dimension*/
     font-size: 2rem;
     font-weight: 700;
 
