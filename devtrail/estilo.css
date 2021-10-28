@@ -33,7 +33,7 @@ header{
 h1.logo{
     /*The rem is good to font-size*/
     /*The font receives a fixed dimension*/
-    font-size: 7rem;
+    font-size: 5rem;
 }
 
 h2.logo{
