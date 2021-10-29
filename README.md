@@ -1,9 +1,7 @@
 # HTML5.W3Schools
  Mastering HTML 5 through W3 Schools. 
 
- The Dev Trail is just a website which implements all the topics covered.
- 
- Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/devtrail/index.html">Dev Trail</a>
+ Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/index.html">HTML5 from W3 Schools</a>
 
  ## Topics implemented
 
