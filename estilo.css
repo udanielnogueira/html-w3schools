@@ -7,4 +7,9 @@
 h1{
     color: orangered;
     background-color: black;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
 }
