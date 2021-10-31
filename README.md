@@ -13,9 +13,6 @@
 
  ### Paragraphs
 
-
- 
-
  ### Styles
 
  ### Formatting
@@ -45,6 +42,12 @@
  ### Comments
 
  ### Colors
+
+ Transparency
+
+ - ``background-color:rgba(255, 99, 71, 0.5);`` 
+
+ - ``background-color:hsla(9, 100%, 64%, 0.5);`` 
 
  ### CSS 
 
