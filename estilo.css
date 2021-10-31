@@ -17,3 +17,10 @@ h1{
 p{
     font-size: 20px; 
 }
+
+#padding{
+    border: 2px solid orangered;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
