@@ -55,7 +55,11 @@
 
  ### Images
 
+ ## Pendent Topics 
 
+ - Images > Image Map
+ 
+ - Images > Picture
 
 
 
