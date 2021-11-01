@@ -28,3 +28,37 @@ p{
 #topic{
     color:orangered;
 }
+
+/*Link Color*/
+/*If I use a:link, it would be applied for all links*/
+#link-teste:link{
+    color: green;
+}
+#link-teste:hover{
+    color: rgb(40, 218, 40);
+}
+#link-teste:visited{
+    color: rgb(0, 119, 255);
+}
+#link-teste{
+    text-decoration: none;
+}
+
+/*Link Button*/
+a.button-one{
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    display: inline-block;
+    margin: 10px;
+
+    color: white;
+    background-color: green;
+
+    text-decoration: none;
+}
+
+a.button-one:hover{
+    background-color: rgb(44, 206, 44);
+}
