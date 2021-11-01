@@ -62,3 +62,8 @@ a.button-one{
 a.button-one:hover{
     background-color: rgb(44, 206, 44);
 }
+
+a.menu{
+    color: orangered;
+    text-decoration: none;
+}

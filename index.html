@@ -21,17 +21,31 @@
         
     </script>
 
+    <h1>Summary</h1>
+
+    <div>
+        <nav>
+            <!--Bookmarks-->
+            <li><a class="menu" href="#j1">1 Elements</a></li>
+            <li><a class="menu" href="#j2">2 Attributes</a></li>
+            <li><a class="menu" href="#j3">3 Styles</a></li>
+            <li><a class="menu" href="#j4">4 Quotations</a></li>
+            <li><a class="menu" href="#j5">5 CSS</a></li>
+            <li><a class="menu" href="#j6">6 Links</a></li>
+        </nav>
+    </div>
+
     <!--1 ELEMENTS-->
-    <h1>1 Elements</h1>
+    <h1 id="j1">1 Elements</h1>
 
     <!--Heading-->
     <p id="topic">Heading</p>
     <h2>This is a heading</h2>
-    <h3>That's another</h3>
+    <h3>This is a heading</h3>
 
     <!--Paragraph-->
     <p id="topic">Paragraphs</p>
-    <p>Paragraphs?! We have it too. I can use it to write a lot, or not.</p>
+    <p>This is a paragraph.</p>
 
     <!--Line Break-->
     <p id="topic">Line Break</p>
@@ -44,49 +58,42 @@
     <!--Preformatted Paragraph-->
     <p id="topic">Preformatted Paragraph</p>
     <pre>
-That's a preformatted paragraph.
+This is a preformatted paragraph.
 
-It will be displayed as I write.
+It will be displayed the way I write.
 
-Let's jump!
-
-O
-    O
-        O
-            O
+o       o       o
+    o       o       o
     </pre>
 
     <!--2 ATTRIBUTES-->
-    <h1>2 Attributes</h1>
+    <h1 id="j2">2 Attributes</h1>
 
     <!--Link-->
     <p id="topic">Link</p>
     <a href="#">Link</a>
  
-
     <!--Image-->
     <!--Single and double quotes on title-->
     <p id="topic">Image</p>
     <p>Using src, width, height, alt and title attributes.</p>
     <img src="assets/html5-badge.png" width="" height="150" alt="If image is not displayed" title='"HTML 5"'>
 
-   
-
     <!--Style attribute-->
     <p id="topic">Style attribute</p>
     <p style="color:rgb(212, 10, 202)">That's a p with style attribute.</p>
 
     <!--3 STYLES-->
-    <h1>3 Styles</h1>
+    <h1 id="j3">3 Styles</h1>
     <p id="topic">Link to CSS</p>
     <p>Using color, background-color, font-family, font-size and text-align.</p>
 
     <pre>
-< link rel="stylesheet" href="estilo.css"/ >
+< link rel="stylesheet" href="estilo.css"/>
     </pre>
 
     <!--4 QUOTATIONS-->
-    <h1>4 Quotations</h1>
+    <h1 id="j4">4 Quotations</h1>
 
     <!--Short quote-->
     <p id="topic">Short quote</p>
@@ -126,7 +133,7 @@ O
     </address>
 
     <!--5 CSS-->
-    <h1>5 CSS</h1>
+    <h1 id="j5">5 CSS</h1>
     <p id="topic">Padding and margin</p>
     <p>Using padding, margin and border.</p>
 
@@ -135,30 +142,42 @@ O
     </div>
 
     <!--6 LINKS-->
-    <h1>6 Links</h1>
+    <h1 id="j6">6 Links</h1>
 
     <!--Target attribute can be _self or _blank-->
     <p id="topic">Link</p>
     <a href="https://github.com/udanielnogueira" target="_blank" title="github.com/udanielnogueira">My github</a>
 
+    <!--Image as link-->
     <p id="topic">Image as link</p>
     <a href="https://github.com/udanielnogueira" target="_blank">
         <img src="assets/github-logo.png" height="150" alt="Github image" title="github.com/udanielnogueira">
     </a>
     
+    <!--Button as link-->
     <p id="topic">Button as link</p>
     <button onclick="document.location='https://github.com/udanielnogueira'" title="github.com/udanielnogueira">My github</button>
 
+     <!--Link colors-->
     <p id="topic">Link Colors</p>
     <p>Using a:link a:hover a:visited and a:active.</p>
     <a id="link-teste" href="#">Link</a>
 
+     <!--Link Button-->
     <p id="topic">Link Buttons</p>
     <a class="button-one" href="#" title="Back to top">Link</a>
 
-    <footer>
-    
-    </footer>
+    <p id="topic">Bookmark</p>
+    <pre>
+1 You need to create a jump in the link of the menu
+
+< a href="#j1">Topic 1< /a>
+
+2 You need to create the id in the topic
+
+< h1 id="j1">Topic 1< /h1>
+    </pre>
+
 
 </body>
 
