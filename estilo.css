@@ -34,6 +34,9 @@ th, td{
 
 table, th, td{
     border: solid 1px white;
+
+    /*border-color:white works too*/
+
     border-collapse: collapse;
 }
 
