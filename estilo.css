@@ -17,6 +17,26 @@ p{
     font-size: 20px; 
 }
 
+/*Table Style*/
+table{
+    width: 100%;
+}
+
+th{
+    text-align: left;
+}
+
+th, td{
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+table, th, td{
+    border: solid 1px white;
+    border-collapse: collapse;
+}
+
 #padding{
     border: 2px solid orangered;
     padding: 50px;

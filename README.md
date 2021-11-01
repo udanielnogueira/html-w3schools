@@ -55,11 +55,29 @@
 
  ### Images
 
+ ### Favicon
+
+ ### Tables
+
+ With ``border-style`` property, you can set the appereance of the border. 
+
+ - dotted     
+ - dashed     
+ - solid     
+ - double     
+ - groove     
+ - ridge     
+ - inset     
+ - outset     
+ - none     
+ - hidden
+
  ## Pendent Topics 
 
  - Images > Image Map
- 
+
  - Images > Picture
+
 
 
 
