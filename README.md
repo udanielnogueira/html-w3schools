@@ -59,7 +59,7 @@
 
  ### Tables
 
- Set the appereance of the border with ``border-style`` property. 
+ Set the border with ``border-style``. 
 
  - dotted     
  - dashed     
