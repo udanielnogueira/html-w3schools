@@ -1,5 +1,5 @@
 # HTML5.W3Schools
- Mastering HTML 5 through W3 Schools. 
+ HTML 5 based on W3 Schools tutorials. 
 
  Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/index.html">HTML5.W3Schools</a>
 
