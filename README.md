@@ -78,12 +78,3 @@ Estudo de HTML com os tutoriais da W3Schools.
  - Images > Image Map
 
  - Images > Picture
-
-
-
-
-
-
-
-
-
