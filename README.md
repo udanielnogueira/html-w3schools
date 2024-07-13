@@ -1,5 +1,6 @@
-# HTML5.W3Schools
- HTML 5 based on W3 Schools tutorials. 
+# html-w3schools
+
+HTML 5 based on W3 Schools tutorials. 
 
  Access: <a href="https://udanielnogueira.github.io/HTML5.W3Schools/index.html">HTML5.W3Schools</a>
 
